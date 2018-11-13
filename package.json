@@ -1,0 +1,22 @@
+{
+  "name": "floatlinks",
+  "version": "1.0.0",
+  "description": "FloatLinks Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelomansur/floatlinks.git"
+  },
+  "keywords": [
+    "floatlinks"
+  ],
+  "author": "Code&Beer&Burp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelomansur/floatlinks/issues"
+  },
+  "homepage": "https://github.com/marcelomansur/floatlinks#readme"
+}
