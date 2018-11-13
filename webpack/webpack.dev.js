@@ -11,5 +11,6 @@ module.exports = {
   devServer: {
     contentBase: commonPath.outputPath,
     compress: true
-  }
+  },
+  plugins: [new webpack.HotModuleReplacementPlugin()]
 };
